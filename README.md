@@ -7,7 +7,7 @@ Olá! Sou o Allan Bonjorno de Carvalho, um desenvolvedor Full Stack brasileiro a
 - 🔭 Atualmente estou focado em aprender e aprimorar minhas habilidades em Desenvolvimento de Aplicações web.
 - 💻 Minhas principais áreas de interesse incluem C#, .NET e SQL Server.
 - ⚛️ Também estou explorando o emocionante mundo do desenvolvimento web com React.
-- 🎵 Nas horas vagas, você pode me encontrar curtindo música ou até mesmo tocando algum instrumento.
+- 🎵 Nas horas vagas, você pode me encontrar curtindo música.
 - 🏊 Sou um nadador entusiasta e adoro passar tempo na piscina.
 
 
